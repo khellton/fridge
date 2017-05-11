@@ -1,0 +1,10 @@
+Package: fridge
+Title: Fridge: Focused ridge regression 
+Version: 0.0.0.9000
+Authors@R: person("Kristoffer", "Hellton", email = "kristohh@math.uio.no", role = c("aut", "cre"))
+Description: Fridge: Ridge regression with a tuning parameter focused towards the covariate to be predicted
+Depends: R (>= 3.3.1)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1.9000
